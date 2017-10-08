@@ -1,8 +1,12 @@
 # SuperfastDemo
 Implementation of Cupboard SQLite Library (https://github.com/electrolobzik/cupboard)
+
 Implementation of pagination.
+
 Implementation of Offline support of data
+
 Implementation of Event Bus Library (https://github.com/greenrobot/EventBus)
+
 Implementation of Volley Library (https://github.com/google/volley)
 
 
